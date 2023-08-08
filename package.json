@@ -1,0 +1,12 @@
+{
+  "name": "alx-react",
+  "version": "1.0.0",
+  "description": "0x01. React intro\r Front-end\r JavaScript\r ES6\r React\r By: Johann Kerbrat, Engineering Manager at Uber Works\r Weight: 1\r Ongoing second chance project - started Jul 25, 2023 6:00 AM, must end by Jul 29, 2023 6:00 AM\r Manual QA review must be done (request it when you are done with the project)\r An auto review will be launched at the deadline\r In a nutshell…\r Manual QA review: In second deadline\r Auto QA review: 0.0/4 mandatory\r Altogether: waiting on some reviews\r Concepts\r For this project, we expect you to look at this concept:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
