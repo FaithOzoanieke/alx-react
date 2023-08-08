@@ -1,12 +1,21 @@
-.App-header {
-  font-size: 1.4rem;
-  color: #e0354b;
-  display: flex;
-  align-items: center;
-  border-bottom: 3px solid #e0354b;
+:root {
+	--primary-color: #E11D3F;
+	font: 18px Helvetica, Arial, sans-serif;
 }
 
-.App-header img {
-  width: 200px;
-  height: 200px;
+h1 {
+	margin-left: 3rem;
+}
+
+.App-header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	color: var(--primary-color);
+	border-bottom: 3px solid var(--primary-color);
+}
+
+.App-logo {
+	height: 200px;
+	width: 200px;
 }
